@@ -1,0 +1,27 @@
+.ui.fixed.top.menu {
+  border: none;
+  box-shadow: none;
+}
+
+.murphys-background {
+  background: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.murphys-background .ui.two.column.grid.container{
+
+}
+
+.fitted.padded.column {
+  color: white;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer-background {
+  background-color: #004030;
+  color: white;
+}
